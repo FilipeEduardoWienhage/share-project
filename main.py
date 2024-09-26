@@ -4,4 +4,5 @@ import os
 from rich.console import Console
 from rich.table import Table
 
-# Fazer os Cruds
+# Criar Banco
+# Fazer os Cruds 
